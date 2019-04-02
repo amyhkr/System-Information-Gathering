@@ -15,6 +15,7 @@ HELP
 3.Move in this folder using this command , but firstly check your directory where are you cloned/downloaded this repository:
   cd System-Information-Gathering
 
+
 4. Give permission(Make executable) using this command: 
    chmod +x pysysinfo_func.py
  
