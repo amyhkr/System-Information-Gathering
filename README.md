@@ -18,11 +18,14 @@ HELP
  git clone https://github.com/hackeramy/System-Information-Gathering.git
  
 3.Move in this folder using this command , but firstly check your directory where are you cloned/downloaded this repository:
+  
   cd System-Information-Gathering
 
 4.Give permission(Make executable) using this command: 
+  
   chmod +x pysysinfo_func.py
  
 5.Now run this by using this command:
+  
   ./pysysinfo_func.py 
    
