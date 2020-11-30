@@ -1,7 +1,7 @@
 # System-Information-Gathering
-System Information Gathering on Debian Based Distro.
+System Information Gathering for Debian Based Distro.
 
-HELP
+#Steps
 
 1.Python3 should be installed:
             
